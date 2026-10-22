@@ -89,7 +89,7 @@ Depending on the application's configuration, these include:
 ### 7. Admin Dashboard
 ![Admin Dashboard](admin_dashboard.png)
 
-
+ 
 
 ### Security Considerations
 - Passwords should be stored as bcrypt hashes rather than plain text.
