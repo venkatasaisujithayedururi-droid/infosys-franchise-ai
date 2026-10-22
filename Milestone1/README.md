@@ -67,28 +67,30 @@ Depending on the application's configuration, these include:
 
 **Security:** Never commit actual passwords, Gmail app passwords, JWT secrets, ngrok tokens, OTPs, or other private credentials to the repository.
 
-### Screenshots
+## Screenshots
 
-#### 1. Login Page
-![Login Page](screenshots/login.png)
+### 1. User Login Page
+![User Login Page](user_sign-in.png)
 
-#### 2. Signup Page
-![Signup Page](screenshots/signup.png)
+### 2. User Sign Up Page
+![User Sign Up Page](create_account.png)
 
-#### 3. Forgot Password — Email Route
-![Forgot Password Email Route](screenshots/forgot_password_email.png)
+### 3. Admin Sign In Page
+![Admin Sign In Page](Admin_sign-in.png)
 
-#### 4. Forgot Password — OTP Route
-![Forgot Password OTP Route](screenshots/forgot_password_otp.png)
+### 4. Forgot Password — Email Route
+![Forgot Password Email Route](forgot_password_email.png)
 
-#### 5. OTP Email
-![OTP Email](screenshots/otp_email.png)
+### 5. Forgot Password — OTP Route
+![Forgot Password OTP Route](forgot_password_otp.png)
 
-#### 6. User Dashboard
-![User Dashboard](screenshots/user_dashboard.png)
+### 6. User Dashboard
+![User Dashboard](user_dashboard.png)
 
-#### 7. Admin Dashboard
-![Admin Dashboard](screenshots/admin_dashboard.png)
+### 7. Admin Dashboard
+![Admin Dashboard](admin_dashboard.png)
+
+
 
 ### Security Considerations
 - Passwords should be stored as bcrypt hashes rather than plain text.
