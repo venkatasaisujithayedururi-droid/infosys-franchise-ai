@@ -75,7 +75,7 @@ Depending on the application's configuration, these include:
 ![User Sign Up Page](create_account.png)
 
 ### 3. Admin Sign In Page
-![Admin Sign In Page](Admin_sign-in.png)
+![Admin Sign In Page](Admin_Sign-In.png)
 
 ### 4. Forgot Password — Email Route
 ![Forgot Password Email Route](forgot_password_email.png)
