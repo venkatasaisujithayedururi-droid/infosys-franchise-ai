@@ -1,4 +1,3 @@
-
 %%writefile app.py
 import os, re, html, sqlite3, jwt, bcrypt, datetime, time, secrets, smtplib, ssl
 import pandas as pd
