@@ -81,7 +81,7 @@ Depending on the application's configuration, these include:
 ![Forgot Password Email Route](forgot_password_email.png)
 
 ### 5. Forgot Password — OTP Route
-![Forgot Password OTP Route](forgot_password_OTP.png)
+![Forgot Password OTP Route](Forgot_Password_otp.png)
 
 ### 6. User Dashboard
 ![User Dashboard](user_dashboard.png)
